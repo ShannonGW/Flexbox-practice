@@ -5,6 +5,7 @@ h1 {
   text-align: center;
 }
 #container {
+  display: flex;
   background-color: #003049;
   width: 90%;
   height: 500px;
